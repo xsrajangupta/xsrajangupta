@@ -19,3 +19,95 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,vscode,matlab,arduino&theme=dark"/>
 </p>
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Electronics and Communication Engineering @ VIT Vellore
+- 🏅 NTSE Stage-1 Qualified
+- 💻 Passionate about Embedded Systems, FPGA Design, Digital Electronics, AI and C++
+- 🌱 Currently learning C++, Embedded C, FPGA Design and DSA
+- 🚀 Building real-world engineering projects using FPGA, Arduino and MATLAB
+- 🎯 Open to Internship, Research Engineering and Software Engineering opportunities
+
+📫 **Email:** `srajang544@gmail.com`
+## ⚙️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,vscode,matlab,arduino&theme=dark" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Verilog-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Quartus%20Prime-0A74DA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ModelSim-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Proteus-0078D7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge"/>
+</p>
+## 🚀 Featured Projects
+
+- 🌱 Smart Irrigation System using FPGA
+- 🎲 Electronic Digital Dice using NE555 Timer
+- 🔌 Digital IC Tester using Arduino
+- ✋ Smart Board Hand Gesture Control using Ultrasonic Sensors
+- 🔊 Analog Audio Amplifier with Tone Control and ESP32
+- 🎧 Audio Noise Cancellation using Wiener Filter (MATLAB)
+
+- ## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=xsrajangupta&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsrajangupta&layout=compact&theme=tokyonight"/>
+
+</p>
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=xsrajangupta&theme=tokyonight"/>
+
+</p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=xsrajangupta&theme=tokyonight&row=1&column=6"/>
+
+</p>
+## 📚 Currently Learning
+
+- Data Structures & Algorithms (C++)
+- Embedded C
+- FPGA & Digital Design
+- Git & GitHub Best Practices
+- Robotics & Automation
+
+- ## 🎯 2026 Goals
+
+- ✅ Build 5+ Engineering Projects
+- ✅ Strengthen Embedded Systems Skills
+- ✅ Improve Problem Solving in C++
+- ✅ Contribute to Open Source
+- ✅ Crack a Great Internship
+
+- ## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/xsrajangupta">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:srajang544@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://instagram.com/srajan_.27">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00F7FF&height=120&section=footer"/>
+
+</p>
