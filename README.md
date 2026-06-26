@@ -19,12 +19,12 @@
 
 ##  About Me
 
-- 🎓 B.Tech Electronics and Communication Engineering @ VIT Vellore
-- 🏅 NTSE Stage-1 Qualified
-- 💻 Passionate about Embedded Systems, FPGA Design, Digital Electronics, AI and C++
-- 🌱 Currently learning C++, Embedded C, FPGA Design and DSA
-- 🚀 Building real-world engineering projects using FPGA, Arduino and MATLAB
-- 🎯 Open to Internship, Research Engineering and Software Engineering opportunities
+- B.Tech Electronics and Communication Engineering @ VIT Vellore
+- NTSE Stage-1 Qualified
+- Passionate about Embedded Systems, FPGA Design, Digital Electronics, AI and C++
+- Currently learning C++, Embedded C, FPGA Design and DSA
+- Building real-world engineering projects using FPGA, Arduino and MATLAB
+- Open to Internship, Research Engineering and Software Engineering opportunities
 
  **Email:** `srajang544@gmail.com`
 
@@ -82,16 +82,6 @@
 
 </p>
 
-
-
-
-##  GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=xsrajangupta&theme=tokyonight&row=1&column=6"/>
-
-</p>
 
 
 
