@@ -17,6 +17,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749695-f4dba90d-5c9f-4b3c-b7d8-0d7f3d6b8e54.gif" width="700">
 </p>
 
+
+
+
 ##  About Me
 
 - B.Tech Electronics and Communication Engineering @ VIT Vellore
@@ -27,6 +30,10 @@
 - Open to Internship, Research Engineering and Software Engineering opportunities
 
  **Email:** `srajang544@gmail.com`
+
+
+
+
 
 
 
@@ -50,6 +57,13 @@
 
 
 
+
+
+
+
+
+
+
 ##  Featured Projects
 
 - Smart Irrigation System using FPGA
@@ -59,6 +73,14 @@
 - Analog Audio Amplifier with Tone Control and ESP32
 - Audio Noise Cancellation using Wiener Filter (MATLAB)
 - Verification of the Non-Negativity and Even Symmetry Properties of the Power Spectral Density.
+
+
+
+
+
+
+
+
 
 
   
@@ -76,11 +98,19 @@
 
 
 
+
+
+
+
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=xsrajangupta&theme=tokyonight"/>
 
 </p>
+
+
+
+
 
 
 
@@ -95,6 +125,11 @@
 - Robotics & Automation
 
 
+
+
+
+
+
 ##  2026 Goals
 
 - Build 10+ Engineering Projects
@@ -102,6 +137,9 @@
 - Improve Problem Solving in C++
 - Contribute to Open Source
 - Crack a Great Internship
+
+
+
 
 
 
