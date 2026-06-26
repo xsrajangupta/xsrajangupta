@@ -32,13 +32,11 @@
 
 
  
- Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,vscode,matlab,arduino&theme=dark" />
 </p>
-
-
 
 <p align="center">
 <img src="https://img.shields.io/badge/Verilog-blue?style=for-the-badge"/>
@@ -50,19 +48,22 @@
 </p>
 
 
- Featured Projects
 
-* Smart Irrigation System using FPGA
-* Electronic Digital Dice using NE555 Timer
-* Digital IC Tester using Arduino
-* Smart Board Hand Gesture Control using Ultrasonic Sensors
-* Analog Audio Amplifier with Tone Control and ESP32
-* Audio Noise Cancellation using Wiener Filter (MATLAB)
-* Verification of the Non-Negativity and Even Symmetry Properties of the Power Spectral Density.
+
+##  Featured Projects
+
+- Smart Irrigation System using FPGA
+- Electronic Digital Dice using NE555 Timer
+- Digital IC Tester using Arduino
+- Smart Board Hand Gesture Control using Ultrasonic Sensors
+- Analog Audio Amplifier with Tone Control and ESP32
+- Audio Noise Cancellation using Wiener Filter (MATLAB)
+- Verification of the Non-Negativity and Even Symmetry Properties of the Power Spectral Density.
+
 
   
 
- GitHub Stats
+ ##  GitHub Stats
 
 <p align="center">
 
@@ -71,6 +72,10 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsrajangupta&layout=compact&theme=tokyonight"/>
 
 </p>
+
+
+
+
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=xsrajangupta&theme=tokyonight"/>
@@ -79,7 +84,8 @@
 
 
 
-## 🏆 GitHub Trophies
+
+##  GitHub Trophies
 
 <p align="center">
 
@@ -89,7 +95,8 @@
 
 
 
-Currently Learning
+
+##  Currently Learning
 
 - Data Structures & Algorithms (C++)
 - Embedded C
@@ -98,20 +105,19 @@ Currently Learning
 - Robotics & Automation
 
 
+##  2026 Goals
 
-
-  2026 Goals
-
-  
- * Build 5+ Engineering Projects
- * Strengthen Embedded Systems Skills
- * Improve Problem Solving in C++
- * Contribute to Open Source
- * Crack a Great Internship
+- Build 10+ Engineering Projects
+- Strengthen Embedded Systems Skills
+- Improve Problem Solving in C++
+- Contribute to Open Source
+- Crack a Great Internship
 
 
 
-  Connect With Me
+
+
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -119,19 +125,22 @@ Currently Learning
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-
 <a href="mailto:srajang544@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
 
 <a href="https://instagram.com/srajan_.27">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 </p>
+
+</p>
+
+
 <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00F7FF&height=120&section=footer"/>
 
 </p>
+
