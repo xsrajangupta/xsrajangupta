@@ -17,7 +17,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749695-f4dba90d-5c9f-4b3c-b7d8-0d7f3d6b8e54.gif" width="700">
 </p>
 
- About Me
+##  About Me
 
 - 🎓 B.Tech Electronics and Communication Engineering @ VIT Vellore
 - 🏅 NTSE Stage-1 Qualified
@@ -27,6 +27,10 @@
 - 🎯 Open to Internship, Research Engineering and Software Engineering opportunities
 
  **Email:** `srajang544@gmail.com`
+
+
+
+
  
  Tech Stack
 
