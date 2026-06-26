@@ -75,7 +75,7 @@
 
 
 
-GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -98,11 +98,12 @@ Currently Learning
 
   2026 Goals
 
-  Build 5+ Engineering Projects
-  Strengthen Embedded Systems Skills
-  Improve Problem Solving in C++
-  Contribute to Open Source
-  Crack a Great Internship
+  
+ * Build 5+ Engineering Projects
+ * Strengthen Embedded Systems Skills
+ * Improve Problem Solving in C++
+ * Contribute to Open Source
+ * Crack a Great Internship
 
 
 
@@ -114,9 +115,11 @@ Currently Learning
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+
 <a href="mailto:srajang544@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
 
 <a href="https://instagram.com/srajan_.27">
 <img src="https://skillicons.dev/icons?i=instagram"/>
