@@ -27,11 +27,14 @@
 - 🎯 Open to Internship, Research Engineering and Software Engineering opportunities
 
  **Email:** `srajang544@gmail.com`
+ 
  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,vscode,matlab,arduino&theme=dark" />
 </p>
+
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/Verilog-blue?style=for-the-badge"/>
@@ -41,15 +44,19 @@
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge"/>
 </p>
+
+
  Featured Projects
 
-Smart Irrigation System using FPGA
-Electronic Digital Dice using NE555 Timer
-Digital IC Tester using Arduino
-Smart Board Hand Gesture Control using Ultrasonic Sensors
-Analog Audio Amplifier with Tone Control and ESP32
-Audio Noise Cancellation using Wiener Filter (MATLAB)
-Verification of the Non-Negativity and Even Symmetry Properties of the Power Spectral Density.
+* Smart Irrigation System using FPGA
+* Electronic Digital Dice using NE555 Timer
+* Digital IC Tester using Arduino
+* Smart Board Hand Gesture Control using Ultrasonic Sensors
+* Analog Audio Amplifier with Tone Control and ESP32
+* Audio Noise Cancellation using Wiener Filter (MATLAB)
+* Verification of the Non-Negativity and Even Symmetry Properties of the Power Spectral Density.
+
+  
 
  GitHub Stats
 
@@ -65,6 +72,9 @@ Verification of the Non-Negativity and Even Symmetry Properties of the Power Spe
 <img src="https://github-readme-streak-stats.herokuapp.com?user=xsrajangupta&theme=tokyonight"/>
 
 </p>
+
+
+
 GitHub Trophies
 
 <p align="center">
@@ -72,6 +82,9 @@ GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=xsrajangupta&theme=tokyonight&row=1&column=6"/>
 
 </p>
+
+
+
 Currently Learning
 
 - Data Structures & Algorithms (C++)
@@ -80,6 +93,9 @@ Currently Learning
 - Git & GitHub Best Practices
 - Robotics & Automation
 
+
+
+
   2026 Goals
 
   Build 5+ Engineering Projects
@@ -87,6 +103,8 @@ Currently Learning
   Improve Problem Solving in C++
   Contribute to Open Source
   Crack a Great Internship
+
+
 
   Connect With Me
 
