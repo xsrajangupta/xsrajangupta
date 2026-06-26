@@ -75,6 +75,10 @@ Currently Learning
 * Improve problem-solving in C++
 * Contribute to open-source projects
 
+💼Open to Internship, Research Engineering, and Software Engineering opportunities.
+              Reach me at: **srajang544@gmail.com**
+
+                 
  Connect With Me
 
 [GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/xsrajangupta)
