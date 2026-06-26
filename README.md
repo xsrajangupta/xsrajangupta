@@ -5,5 +5,5 @@ B.Tech Electronics and Communication Engineering Student @ VIT Vellore
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Embedded+Systems+Enthusiast;FPGA+%7C+Verilog+Developer;Digital+Electronics+Explorer;C%2B%2B+Learner;Building+Real-World+Engineering+Projects;Always+Learning+Something+New!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Embedded+Systems+Problem+Solving;FPGA+%7C+Verilog+%7C+Analog Circuits;Digital+Electronics+Explorer;AI+C%2B%2B+Learner;Building+Real-World+Engineering+Projects;Always+Learning+Something+New!" />
 </p>
