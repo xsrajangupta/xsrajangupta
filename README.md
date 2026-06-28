@@ -54,7 +54,7 @@
 ##  Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,vscode,modelsim,matlab,arduino&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,github,vscode,matlab,arduino&theme=dark" />
 </p>
 
 <p align="center">
