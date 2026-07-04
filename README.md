@@ -78,7 +78,9 @@
 
 ##  Featured Projects
 
+
 - Smart Irrigation System using FPGA
+- Portfolio Town
 - Electronic Digital Dice using NE555 Timer
 - Digital IC Tester using Arduino
 - Smart Board Hand Gesture Control using Ultrasonic Sensors
